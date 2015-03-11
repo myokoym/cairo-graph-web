@@ -105,6 +105,7 @@ helpers do
     graph.columns = columns
     #graph.grid_max = 1200
     #graph.grid_step = 200
+    graph.font = "VL Gothic"
     rows.each do |row_with_name|
       row, name = *row_with_name
       graph.add(row, name)

@@ -3,7 +3,7 @@ GEM
   specs:
     cairo (1.14.1)
       pkg-config (>= 1.1.5)
-    cairo-graph (0.0.1)
+    cairo-graph (0.0.2)
       cairo
     haml (4.0.6)
       tilt
